@@ -1,3 +1,3 @@
 # simple-shell-c-
 
-a simple implementation of a shell in C
+A simple implementation of a shell in C
